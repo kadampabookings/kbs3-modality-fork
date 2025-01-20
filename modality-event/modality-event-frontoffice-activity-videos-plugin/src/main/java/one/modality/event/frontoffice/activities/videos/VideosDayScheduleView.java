@@ -53,7 +53,7 @@ final class VideosDayScheduleView {
     private final HBox mainLine = new HBox();
     private final VBox mainVBox = new VBox();
     private final int DATE_PREF_SIZE = 150;
-    private final int STATUS_PREF_SIZE = 150;
+    private final int STATUS_PREF_SIZE = 130;
     private final int NAME_PREF_SIZE = 200;
     private final int TIME_PREF_SIZE = 130;
     private final int REMARK_PREF_SIZE = 300;
